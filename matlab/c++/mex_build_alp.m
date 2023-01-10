@@ -1,0 +1,1 @@
+mex -I/usr/local/Cellar/eigen/3.3.9/include/eigen3 main.cpp
